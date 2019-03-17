@@ -1,5 +1,8 @@
 {
     "uuid": "nordvpn@marcuzy",
     "name": "NordVPN",
-    "description": "Control NordVPN"
+    "description": "Simple applet to control NordVPN",
+    "original-authors": [
+        "t5633@ya.ru"
+    ]
 }
